@@ -8,7 +8,7 @@ class SpringbootwebQuickstartApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("bbb");
+        System.out.println("bbbb");
     }
 
 }
